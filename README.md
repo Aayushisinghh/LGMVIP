@@ -1,6 +1,6 @@
 ## LGM_VIP-JAN2022
 
-LetsGrowMore Virtual Internship Program September 2021
+LetsGrowMore Virtual Internship Program January 2022
 
 ### DOMAIN - Web Development 
 
