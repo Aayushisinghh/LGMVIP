@@ -9,7 +9,3 @@ Level         : Beginner level <br>
 Language Used : HTML,CSS,JavaScript <br>
 IDE Used      : VS Code
 
-# Task - 2 :   Create a web application using create-react-app
-Level         : Intermediate level <br>
-Language Used : HTML,CSS,JavaScript <br>
-IDE Used      : VS Code
